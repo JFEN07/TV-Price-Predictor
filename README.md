@@ -25,7 +25,7 @@ The program predicts the price of a television based on its hardware features an
 
 ## Installation
 1. Clone the repository:
-   git clone <repository_link>
+   git clone https://github.com/JFEN07/TV-Price-Predictor
    cd TV_Price_Prediction_Cap4612
 
 2. Install required libraries:
@@ -38,15 +38,9 @@ Follow the cells step-by-step to preprocess the data, train the model, and evalu
 
 ## Repository Structure
 TV_Price_Prediction_Cap4612/
-
-├── data/
-
-│   └── tv_data.csv
-
-├── notebooks/
-
-│   └── CAP_4612_TV_Price_Prediction_Program.ipynb
-
-├── README.md
-
-└── requirements.txt
+   ├── data/
+   │      └── tv_data.csv
+   ├── notebooks/
+   │      └── CAP_4612_TV_Price_Prediction_Program.ipynb
+   ├── README.md
+   └── requirements.txt
