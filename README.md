@@ -35,3 +35,12 @@ The program predicts the price of a television based on its hardware features an
 Run the Jupyter Notebook:
    jupyter notebook CAP_4612_TV_Price_Prediction_Program.ipynb
 Follow the cells step-by-step to preprocess the data, train the model, and evaluate its performance.
+
+## Repository Structure
+TV_Price_Prediction_Cap4612/
+├── data/
+│   └── tv_data.csv
+├── notebooks/
+│   └── CAP_4612_TV_Price_Prediction_Program.ipynb
+├── README.md
+└── requirements.txt
