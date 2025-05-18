@@ -37,7 +37,7 @@ Run the Jupyter Notebook:
 Follow the cells step-by-step to preprocess the data, train the model, and evaluate its performance.
 
 ## Repository Structure
-TV_Price_Prediction_Cap4612/
+TV_Price_Predictor/
 
 ├── data/
 
