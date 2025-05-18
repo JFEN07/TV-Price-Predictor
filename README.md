@@ -40,7 +40,9 @@ Follow the cells step-by-step to preprocess the data, train the model, and evalu
 TV_Price_Prediction_Cap4612/
 
 ├── data/
+
 │   └── tv_data.csv
+
 ├── notebooks/
 
 │   └── CAP_4612_TV_Price_Prediction_Program.ipynb
